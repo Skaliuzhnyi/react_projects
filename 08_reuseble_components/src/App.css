@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.page__title {
+  color: lime;
+}
+
+.page__subtitle {
+  color: orange;
+}

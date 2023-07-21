@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.posts__title {
+  background-color: lightblue;
+  padding: 50px;
+  margin-bottom: 20px;
+}

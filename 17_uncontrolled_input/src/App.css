@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+button {
+  padding: 15px;
+  font-size: 30px;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  width: fit-content;
+  margin: 20px auto;
+}
+
+form {
+  font-size: 30px;
+}
+
+input {
+  margin: 15px;
+  padding: 10px;
+  font-size: 25px;
+}
+
+label {
+  display: block;
+}
